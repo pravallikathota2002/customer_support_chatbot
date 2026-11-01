@@ -6,7 +6,7 @@ An AI-powered conversational assistant designed to help users with fleet managem
 
 Watch the complete chatbot demonstration:
 
-[![Fleet Management Chatbot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Fleet Management Chatbot Demo](https://img.youtube.com/vi/gU0DL8AareY/hqdefault.jpg)](https://www.youtube.com/watch?v=gU0DL8AareY)
 
 In this demonstration, you can see how the chatbot:
 
